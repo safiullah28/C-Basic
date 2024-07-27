@@ -1,0 +1,11 @@
+  input(a,size);
+    printf("The elements in array 1 are : ");
+    display(a,size);
+    printf("\nThe elements in copied are : ");
+    copy(a,b,size);
+    display(b, size);
+    bubblesort(a,size);
+    printf("\nSorted array : ");
+    display(a,size);
+    printf("\n");
+    indexing(a,size);

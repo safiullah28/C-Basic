@@ -1,0 +1,4 @@
+﻿  Task 3.c
+D:\PUCIT\C++\Lab 2\Task 3.c(14,38): warning C4474: 'printf' : too many arguments passed for format string
+D:\PUCIT\C++\Lab 2\Task 3.c(14,38): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  Lab 2.vcxproj -> D:\PUCIT\C++\Lab 2\x64\Debug\Lab 2.exe
